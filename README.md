@@ -1,5 +1,7 @@
 <h1 align="center"><b> 😻How To Create Own Whatsapp Bot plugging!!  </b></h1>
 
+</p>
+<div align="center"> 
 ## Github Account එකක් තාම හදාගෙන නැත්නම් පහල Link එකෙන් හදාගන්න
 https://github.com/signup
 
@@ -31,6 +33,6 @@ https://github.com/signup
 ## 🔏මොනවා හරි ගැටලුවක් ආවොත් පහල Number එක දාන්නම් Whatsapp ඇවිත් අහන්න පුලුවන් උදව්වක් දෙන්නම්🙇
 </a>
   <a href="https://wa.me/94784506970">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Achi%20Fernando%20-purple&style=plastic">
 
   </a>
