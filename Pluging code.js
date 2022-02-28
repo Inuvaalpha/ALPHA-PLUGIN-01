@@ -1,7 +1,37 @@
-/* # Exclusively from Neotro Project 
-# Do not use this fore any commercial thing
-# Do not edit (Respect to the Devaoloper) 
-# All rights reserved ®Teenuh-X @Teenuh Wa.me/+94766598862
-# Credit : usufusta-whatsappAsena
-*/
+const Trex = require('../events');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
+const {spawnSync} = require('child_process');
+const Config = require('../config');
+const chalk = require('chalk');
+const axios = require('axios');
 
+if (Config.WORKTYPE == 'public') {
+
+
+    Trex.addrex({pattern: ' Tyep Your cmd', fromMe: true,  deleteCommand: true }, (async (message, match) => {
+
+          
+            var image = await axios.get ('https://telegra.ph/', {responseType: 'arraybuffer'})//ඔය ලින්ක් එකට  ඕන ෆොටෝ එකේ ලින්ක් එක දන්න. 💫
+            
+        await conn.sendMessage(conn.user.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: 'any massage tyep here',quoted: message.data})//ඔතන  ඕන මැස්වෙජ් එක දාන්න.💫
+        
+        
+
+     }));
+}
+    
+else if (Config.WORKTYPE == 'private') {
+        
+    Trex.addrex({pattern: ' Tyep Your cmd', fromMe: true,  deleteCommand: true }, (async (message, match) => {
+
+          
+            var image = await axios.get ('https://telegra.ph/', {responseType: 'arraybuffer'})//ඔය ලින්ක් එකට  ඕන ෆොටෝ එකේ ලින්ක් එක දන්න. 💫
+            
+        await conn.sendMessage(conn.user.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: 'any massage tyep here',quoted: message.data})//ඔතන  ඕන මැස්වෙජ් එක දාන්න.💫
+        
+        
+
+    }));
+    
+    
+}
