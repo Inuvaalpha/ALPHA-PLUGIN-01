@@ -16,6 +16,3 @@ if (Config.WORKTYPE == 'public') {
     }));
     
 } 
-
-
-//Code එක Coppy කරගන්න
