@@ -1,7 +1,5 @@
 <h1 align="center"><b> 😻How To Create Own Whatsapp Bot plugging!!  </b></h1>
 
-</p>
-<div align="center"> 
 ## Github Account එකක් තාම හදාගෙන නැත්නම් පහල Link එකෙන් හදාගන්න
 https://github.com/signup
 
