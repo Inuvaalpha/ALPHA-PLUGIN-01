@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="300" height="300">
+	<div align="center">
+
 <h1 align="center"><b> 😻How To Create Own Whatsapp Bot plugging!!  </b></h1>
 
 ## Github Account එකක් තාම හදාගෙන නැත්නම් පහල Link එකෙන් හදාගන්න
